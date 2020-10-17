@@ -14,7 +14,8 @@ I ran go mod vendor and included the requirements to alleviate you having to get
  - go build
 
 ## Usage
-./domain_tool command --url URL
+ - ./domain_tool command --url URL
+ - See <a href="/docs/usage.md">All Commands</a>
 
 ## Next Version
 I intend to update this soon with an option to register domains
