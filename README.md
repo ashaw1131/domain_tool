@@ -10,11 +10,11 @@ Version: 1.0.0
 
 ## Notes
 I ran go mod vendor and included the requirements to alleviate you having to get them.
- - git clone https://github.com/ashaw1131/domain_tool.git
- - go build
+ - ```git clone https://github.com/ashaw1131/domain_tool.git```
+ - ```go build```
 
 ## Usage
- - ./domain_tool command --url URL
+ - ```./domain_tool command --url URL```
  - See <a href="/docs/usage.md">All Commands</a>
 
 ## Next Version
